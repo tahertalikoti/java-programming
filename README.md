@@ -1,2 +1,2 @@
-# java-programming
-Java Programming for Complete Beginners
+# master-java-programming
+Master Java Programming
